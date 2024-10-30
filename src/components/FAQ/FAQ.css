@@ -1,0 +1,33 @@
+
+.faq-container {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5rem;
+    margin-top: 5rem;
+}
+
+.faq-image {
+    flex: 1;
+    max-width: 30%;
+    height: auto;
+    margin-right: 5rem;
+    margin-left: 10rem;
+}
+
+.question-faq{
+   margin: 0.8rem;
+}
+
+.answer{
+    width: 27rem;
+    margin-top: 0.5rem;
+}
+
+.button{
+    border: none;
+    background-color: #ffff;
+    width: 1rem;
+    height: 1rem;
+    font-size: 1.2rem;
+    margin-left: 0.5rem;
+}
